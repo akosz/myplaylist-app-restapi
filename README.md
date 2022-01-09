@@ -24,10 +24,6 @@ Getting up and running is as easy as 1, 2, 3.
     npm start
     ```
 
-## Testing
-
-Simply run `npm test` and all your tests in the `test/` directory will be run.
-
 ## Scaffolding
 
 Feathers has a powerful command line interface. Here are a few things it can do:
